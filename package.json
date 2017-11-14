@@ -1,0 +1,90 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ngx-tour-ng-bootstrap",
+        "scope": null,
+        "escapedName": "ngx-tour-ng-bootstrap",
+        "name": "ngx-tour-ng-bootstrap",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "G:\\CountAdjustmentSampleProject"
+    ]
+  ],
+  "_from": "ngx-tour-ng-bootstrap@latest",
+  "_id": "ngx-tour-ng-bootstrap@2.0.0-beta.5",
+  "_inCache": true,
+  "_location": "/ngx-tour-ng-bootstrap",
+  "_nodeVersion": "8.4.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ngx-tour-ng-bootstrap-2.0.0-beta.5.tgz_1505844358651_0.9933032346889377"
+  },
+  "_npmUser": {
+    "name": "isaacplmann",
+    "email": "isaacplmann+npm@gmail.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ngx-tour-ng-bootstrap",
+    "scope": null,
+    "escapedName": "ngx-tour-ng-bootstrap",
+    "name": "ngx-tour-ng-bootstrap",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-tour-ng-bootstrap/-/ngx-tour-ng-bootstrap-2.0.0-beta.5.tgz",
+  "_shasum": "62b066f8523ea7e841ae5d6f2d5258c4e1e63b41",
+  "_shrinkwrap": null,
+  "_spec": "ngx-tour-ng-bootstrap",
+  "_where": "G:\\CountAdjustmentSampleProject",
+  "author": {
+    "name": "Isaac Mann",
+    "email": "isaacplmann@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/isaacplmann/ngx-tour/issues"
+  },
+  "dependencies": {
+    "ngx-tour-core": "^1.0.0",
+    "withinviewport": "^2.0.0"
+  },
+  "description": "[![Dependency Status](https://david-dm.org/isaacplmann/ngx-tour-ng-bootstrap.svg)](https://david-dm.org/isaacplmann/ngx-tour-ng-bootstrap) [![devDependency Status](https://david-dm.org/isaacplmann/ngx-tour-ng-bootstrap/dev-status.svg)](https://david-dm.or",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-yl3xgoplBh7wg5NA90clqn/xWuemXtiu1/Jna8AMRiVXUJijaKu3IjLyR/yNJLcOET28Ol8M2N+IHid7bBWkwQ==",
+    "shasum": "62b066f8523ea7e841ae5d6f2d5258c4e1e63b41",
+    "tarball": "https://registry.npmjs.org/ngx-tour-ng-bootstrap/-/ngx-tour-ng-bootstrap-2.0.0-beta.5.tgz"
+  },
+  "es2015": "ngx-tour-ng-bootstrap/ngx-tour-ng-bootstrap.js",
+  "homepage": "https://github.com/isaacplmann/ngx-tour#readme",
+  "license": "MIT",
+  "main": "bundles/ngx-tour-ng-bootstrap.umd.js",
+  "maintainers": [
+    {
+      "name": "isaacplmann",
+      "email": "isaacplmann+npm@gmail.com"
+    }
+  ],
+  "module": "ngx-tour-ng-bootstrap/ngx-tour-ng-bootstrap.es5.js",
+  "name": "ngx-tour-ng-bootstrap",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-beta.5"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacplmann/ngx-tour.git"
+  },
+  "typings": "ngx-tour-ng-bootstrap.d.ts",
+  "version": "2.0.0-beta.5"
+}
